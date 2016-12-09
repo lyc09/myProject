@@ -1,3 +1,2 @@
-# myProject
-这是一个属于网站制作的项目
-先用于测试GitHub上的一个分支项目。
+# mip-extensions
+mip插件上传库
