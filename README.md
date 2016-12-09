@@ -1,2 +1,2 @@
-# myProject
-这是一个属于网站制作的项目
+# mip-extensions
+mip插件上传库
